@@ -1,6 +1,6 @@
 package com.company.Array;
 
-public class Arrays {
+public class positiveArray {
     public static void main(String[] args) {
         int[] arr = {38, 5, 10, 0, 89, 1, -9, 13, 29};
 
